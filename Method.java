@@ -1,5 +1,10 @@
+abstract class Abs extends Add{
 
+}
 
+ class Add{
+
+}
 public class Method{
 
 	static int add(){
